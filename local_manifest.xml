@@ -5,9 +5,10 @@
            revision="refs/heads/tirimbino" />
            
  <!-- Device Repos -->
-  <project path="device/xiaomi/davinci" name="device_xiaomi_davinci" remote="rush-er" />
-  <project path="kernel/xiaomi/sm6150" name="kernel_xiaomi_sm6150" remote="rush-er" />
-  <project path="vendor/xiaomi" name="vendor_xiaomi_davinci" remote="rush-er" />
-  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="rush-er" />
-  <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="rush-er" />
+  <project path="device/xiaomi/davinci" name="android_device_xiaomi_davinci" remote="rush-er" />
+  <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="rush-er" />  
+  <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="rush-er" />
+  <project path="vendor/xiaomi" name="android_vendor_xiaomi" remote="rush-er" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="rush-er" />
+  <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="rush-er" />
   </manifest>
