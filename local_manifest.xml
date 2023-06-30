@@ -2,7 +2,7 @@
 <manifest>
     <remote  name="rush-er"
            fetch="https://github.com/bootleggers-davinci"
-           revision="refs/heads/tirimbino" />
+           revision="refs/heads/tirim-up" />
            
  <!-- Device Repos -->
   <project path="device/xiaomi/davinci" name="android_device_xiaomi_davinci" remote="rush-er" />
